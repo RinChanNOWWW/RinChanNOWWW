@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ## Know a little about
 
 - 💻 &nbsp;
-- ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B)
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B)
   ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=Go)
   ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=Rust)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
