@@ -25,6 +25,7 @@ Here are some ideas to get you started:
   ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=Rust)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
   ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=Typescript)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
 - 🌐 &nbsp;
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
@@ -44,5 +45,5 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/RinChanNOWWW">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RinChanNOWWW&show_icons=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RinChanNOWWW&layout=compact&exclude_repo=TokTik,Android_Homework,rinchannowww.github.io" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RinChanNOWWW&layout=compact&exclude_repo=Android_Homework,rinchannowww.github.io" />
 </a>
