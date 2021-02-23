@@ -46,4 +46,5 @@ Here are some ideas to get you started:
 <a href="https://github.com/RinChanNOWWW">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RinChanNOWWW&show_icons=true&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=RinChanNOWWW&layout=compact&exclude_repo=Android_Homework,rinchannowww.github.io&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RinChanNOW"/>
 </a>
