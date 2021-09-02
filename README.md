@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🤔 I’m ready to study for a master degree at [SICRC, BUPT](http://sicrc.cn/).
+- 🤔 I’m studying for a master degree at [SICRC, BUPT](http://sicrc.cn/)(2021.9 ~ 2024.6).
 
 ## Know a little about
 
