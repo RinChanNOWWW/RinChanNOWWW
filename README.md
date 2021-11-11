@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🤔 I’m studying for a master degree at [SICRC, BUPT](http://sicrc.cn/)(2021.9 ~ 2024.6).
+- 👯 Previous internship: Tencent(Golang, 2021.6 ~ 2021.9), Bytedance(Golang, 2020.7 ~ 2021.2).
 
 ## Know a little about
 
@@ -45,7 +46,7 @@ Here are some ideas to get you started:
 
 ![Windows10](https://img.shields.io/badge/Windows%2010-00adef?style=flat-square&logo=windows&logoColor=ffffff)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu%2020.04(WSL)-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)
-![macOS](https://img.shields.io/badge/macOS-696969?style=flat-square&logo=apple&logoColor=ffffff)
+<!-- ![macOS](https://img.shields.io/badge/macOS-696969?style=flat-square&logo=apple&logoColor=ffffff) -->
 
 <a href="https://github.com/RinChanNOWWW">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RinChanNOWWW&show_icons=true&include_all_commits=true&count_private=true" />
