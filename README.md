@@ -44,8 +44,9 @@ Here are some ideas to get you started:
   
 ## Developing on
 
-![Windows10](https://img.shields.io/badge/Windows%2010-00adef?style=flat-square&logo=windows&logoColor=ffffff)
-![Ubuntu](https://img.shields.io/badge/Ubuntu%2020.04(WSL)-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)
+![Windows11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)
+![Ubuntu](https://img.shields.io/badge/Ubuntu%20(WSL)-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)
 <!-- ![macOS](https://img.shields.io/badge/macOS-696969?style=flat-square&logo=apple&logoColor=ffffff) -->
 
 <a href="https://github.com/RinChanNOWWW">
