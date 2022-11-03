@@ -15,40 +15,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🤔 I’m studying for a master degree at [SICRC, BUPT](http://sicrc.cn/)(2021.9 ~ 2024.6).
-- 👯 Previous internship: Tencent(Golang, 2021.6 ~ 2021.9), Bytedance(Golang, 2020.7 ~ 2021.2).
-
-## Know a little about
-
-- 💻 &nbsp;
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B)
-  ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=Go)
-  ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=Rust)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
-  ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=Typescript)
-- 🌐 &nbsp;
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Electron](https://img.shields.io/badge/-Electron-333333?style=flat&logo=electron)
-- 🛢 &nbsp;&nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![JetBrains' IDEs](https://img.shields.io/badge/-JetBrains'%20IDEs-333333?style=flat)
+- I’m studying for a master degree at [SICRC, BUPT](http://sicrc.cn/)(2021.9 ~ 2024.6).
+- Previous internship: Tencent (Golang, 2021.6 ~ 2021.9), Bytedance (Golang, 2020.7 ~ 2021.2)
+- I mainly write Rust, C++ and Python codes, somtimes C, Go and JS/TS. 
+- I write codes in VSCode.
+- I like playing music games (or rhythm games, 音楽ゲーム, 音ゲー...). I'm now obsessed with SOUND VOLTEX and maimai DX.
   
-## Developing on
+## Playing and working on
 
 ![Windows11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu%20(WSL)-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)
 <!-- ![macOS](https://img.shields.io/badge/macOS-696969?style=flat-square&logo=apple&logoColor=ffffff) -->
 
+## Github Stats
+
+<div align="center">
 <a href="https://github.com/RinChanNOWWW">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RinChanNOWWW&show_icons=true&include_all_commits=true&count_private=true" />
 </a>
+</div>
