@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 - I’m studying for a master degree at [SICRC, BUPT](http://sicrc.cn/)(2021.9 ~ 2024.6).
 - Previous internship: Tencent (Golang, 2021.6 ~ 2021.9), Bytedance (Golang, 2020.7 ~ 2021.2)
-- I mainly write Rust, C++ and Python codes, somtimes C, Go and JS/TS. 
+- I mainly write Rust, C++ and Python codes. 
 - I write codes in VSCode.
-- I like playing music games (or rhythm games, 音楽ゲーム, 音ゲー...). I'm now obsessed with SOUND VOLTEX and maimai DX.
+- I like playing music games (or rhythm games, 音楽ゲーム, 音ゲー...). I'm now obsessed with SOUND VOLTEX and maimai DX and Project DIVA (FT series).
   
 ## Playing and working on
 
