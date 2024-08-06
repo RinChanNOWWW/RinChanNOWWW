@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - I'm a cloud native data warehouse developer at Tencent Cloud (using C++).
-- I’m studying for a master degree at [SICRC, BUPT](http://sicrc.cn/)(2021.9 ~ 2024.6).
 - I used to use Rust to build a cloud native data warehouse at @datafuselabs.
 - I used to write Golang at Bytedance and Tencent.
 - I mainly write Rust, C++ and Python codes. 
