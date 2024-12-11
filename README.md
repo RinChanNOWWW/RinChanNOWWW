@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 - I'm a cloud native data warehouse developer at Tencent Cloud (using C++).
 - I used to use Rust to build a cloud native data warehouse at @datafuselabs.
 - I used to write Golang at Bytedance and Tencent.
-- I mainly write Rust, C++ and Python codes. 
+- I mainly write C++ and Python codes. 
 - I write codes in VSCode.
-- I like playing music games (or rhythm games, 音楽ゲーム, 音ゲー...). I'm now obsessed with SOUND VOLTEX and maimai DX and Project DIVA (FT series).
+- I love playing maimai and CHUNITHM.
   
 ## Playing and working on
 
