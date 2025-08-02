@@ -18,16 +18,13 @@ Here are some ideas to get you started:
 - I'm a cloud native data warehouse developer at Tencent Cloud (using C++).
 - I used to use Rust to build a cloud native data warehouse at @datafuselabs.
 - I used to write Golang at Bytedance and Tencent.
-- I mainly write C++ and Python codes. 
-- I write codes in VSCode.
-- I love playing maimai and CHUNITHM.
+- VSCode is my favorite editor/IDE.
   
 ## Playing and working on
 
-![Windows11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)
-![Ubuntu](https://img.shields.io/badge/Ubuntu%20(WSL)-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)
-<!-- ![macOS](https://img.shields.io/badge/macOS-696969?style=flat-square&logo=apple&logoColor=ffffff) -->
+![macOS](https://img.shields.io/badge/macOS-696969?logo=apple&logoColor=ffffff)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Windows11](https://custom-icon-badges.demolab.com/badge/Windows%2011-00adef?logo=windows11&logoColor=white)
 
 ## Github Stats
 
